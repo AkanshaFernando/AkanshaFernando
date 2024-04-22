@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkanshaFernando
 - 👀 I’m interested in implementing new algorithms to solve complex problems
-- 🌱 I’m currently learning Computer Science at IIT, Sri Lanka which is collaborating with the University of Westmnister
+- 🌱 I’m currently learning Computer Science at IIT, Sri Lanka which is collaborating with the University of Westminster
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: f#ck this shit! I'm a male; you know what to say!
