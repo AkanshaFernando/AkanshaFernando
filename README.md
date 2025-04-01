@@ -57,13 +57,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Supabase_Logo.png" alt="Supabase" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-#### 📊 Project Management
-
-<p align="left">
-  <img src="https://logos-world.net/wp-content/uploads/2021/02/ClickUp-Logo.png" alt="ClickUp" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-plain.svg" alt="Supabase" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 ---
