@@ -74,12 +74,8 @@
 ### 📌 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/AkanshaFernando/leave-book" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkanshaFernando&repo=leave-book&theme=radical" alt="Leave Book" width="45%">
-  </a>
-  <a href="https://github.com/AkanshaFernando/mhchem-website" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkanshaFernando&repo=mhchem-website&theme=radical" alt="MHCHEM Website" width="45%">
-  </a>
+  <strong>Leave Book</strong>: Custom Leave Management App for Xyicon (PVT) LTD. (Private Repository)<br><br>
+  <strong>MHCHEM Website</strong>: Branding and website development for mhchem.lk. (Private Repository)
 </p>
 
 ---
